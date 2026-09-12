@@ -1,4 +1,4 @@
-<!--# Hi, I'm Youssef
+# Hi, I'm Youssef
 
 I'm a student developer focused on Python, AI, and defensive cybersecurity.
 
